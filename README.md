@@ -22,7 +22,7 @@ This GitHub repository contains the source code for Memora, allowing you to expl
 
 To get started with Memora, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/memora.git`
+1. Clone the repository: `git clone https://github.com/joshnwosu/memora.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Access Memora in your web browser at `http://localhost:3000`
