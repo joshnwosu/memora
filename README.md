@@ -14,9 +14,8 @@ This GitHub repository contains the source code for Memora, allowing you to expl
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript for the frontend
-- Node.js and Express.js for the backend
-- MongoDB for data storage
+- Nextjs, Typescript for the frontend
+- Firebase for the backend
 
 ## Getting Started
 
